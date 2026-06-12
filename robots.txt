@@ -1,0 +1,14 @@
+User-agent: Yeti
+Disallow: /config/
+
+User-agent: Baiduspider
+Disallow: /config/
+
+User-agent: Googlebot
+Disallow: /config/
+
+User-agent: Bingbot
+Disallow: /config/
+
+User-agent: *
+Disallow: /config/
